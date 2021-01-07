@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.exe
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.deps.json
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.dll
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\bin\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.dll
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task05_Divide_Without_Remainder\obj\Debug\netcoreapp3.1\Task05_Divide_Without_Remainder.genruntimeconfig.cache
