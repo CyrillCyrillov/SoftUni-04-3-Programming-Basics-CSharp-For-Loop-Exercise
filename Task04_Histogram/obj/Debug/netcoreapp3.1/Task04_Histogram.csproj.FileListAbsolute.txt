@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.exe
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.deps.json
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.dll
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\bin\Debug\netcoreapp3.1\Task04_Histogram.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.dll
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task04_Histogram\obj\Debug\netcoreapp3.1\Task04_Histogram.genruntimeconfig.cache
