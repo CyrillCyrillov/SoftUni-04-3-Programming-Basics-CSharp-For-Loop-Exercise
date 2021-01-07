@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.exe
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.deps.json
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.dll
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\bin\Debug\netcoreapp3.1\Task06_Salary.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.dll
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.pdb
+C:\Users\Kiril\source\repos\Exersice04\Task06_Salary\obj\Debug\netcoreapp3.1\Task06_Salary.genruntimeconfig.cache
